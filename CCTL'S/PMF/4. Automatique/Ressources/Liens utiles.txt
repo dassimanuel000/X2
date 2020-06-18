@@ -1,0 +1,31 @@
+https://mathsciences.ac-versailles.fr/IMG/pdf/ctn.pdf
+
+Amplificateur oprationnel(https://www.electronique-radioamateur.fr/elec/schema/montage-aop.php)
+
+Thermistance(https://mathsciences.ac-versailles.fr/IMG/pdf/ctn.pdf)
+
+Boucle fermée, boucle ouverte 
+
+MVC
+
+Communication Arduino et Java [6 étapes clés]
+
+Java notions de POO (Encapsulation, Heritage, ...)
+
+
+Composants AWT et SWING de Java
+
+Pont diviseur de tension
+
+Capteur thermiques, diodes pouvant servir de capteurs
+
+
+Notions de perturbation en thermodynamique
+
+Principe d'avertissement et de régulation en thermodynamie/automatique
+
+Conversion analogique numérique Arduino
+
+
+
+
